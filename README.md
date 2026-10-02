@@ -4,6 +4,8 @@
 
 *Scripts SQL para la creación y población de la base de datos de la API de geolocalización de Chile.*
 
+[![Website](https://img.shields.io/badge/Próximamente-sitio.web-lightblue)](https://github.com/ruizRojasFel) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ruizRojasFel/serv_geo_cl_db?tab=MIT-1-ov-file)
+
 </div>
 
 <br>
